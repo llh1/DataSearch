@@ -7,7 +7,7 @@ DataSearch.js is an attempt to use the power of regular expression to search acr
 
 ## Quick Start
 
-``javascript
+```javascript
 var DataSearch = require('datasearch');
 
 var data = [
